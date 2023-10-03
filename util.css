@@ -1,0 +1,95 @@
+.min-h-screen{
+    min-height: 0h;
+}
+.bg-red{
+    background-color: red;
+}
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.justify-center{
+    justify-content: center;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.items-center{
+    align-items: center;
+}
+.font-bold{
+    font-weight: 900;
+}
+.m-1{
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+.m-2{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.p-1{
+    padding-left: 16px;
+    padding-right: 16px;
+}
+.text-color{
+    color: rgb(36, 49, 231);
+}
+.text-color2{
+    color: rgb(188, 188, 224)
+}
+.btn{
+    padding: 4px 12px;
+    border: 2px solid black;
+    border-radius: 12px;
+    color: white;
+    background-color: rgb(149, 149, 224);
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: rgb(11, 11, 12);
+}
+.btn2{
+    padding: 22px 12px;
+    border-radius: 64px;
+    background-color: blue;
+}
+.od{
+    overflow-x: hidden;
+}
+.travel{
+    width: 450px;
+}
+.logo{
+    width: 100px;
+    padding-left: 21%;
+    height: 74%;
+}
+.text-center{
+    text-align: center;
+}
+.pt{
+    font-size: 70%;
+    width: 50%;
+}
+.pbox{
+    padding-inline: 10%;
+    padding-block: 7%;
+}
+.cost{
+    font-size: 1.3rem;
+    font-weight: bolder;
+}
+.ts{
+    font-size: 16px;
+}
+.mtb{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
